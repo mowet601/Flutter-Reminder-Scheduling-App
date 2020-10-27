@@ -7,8 +7,11 @@ The user should be able to ...
 3. Select a repetition cycle, e.g. daily, weekly, monthly
 4. View all reminders
 5. Toggle single reminders later
+6. Cancel and Delete particular reminder
+7. Cancel All reminders
 
-## [Demo]()
+## [Demo](https://drive.google.com/file/d/1SrirfgQUH1wYNbjhfYvu3fQMDQ7V7u_x/preview)
+<iframe src="https://drive.google.com/file/d/1SrirfgQUH1wYNbjhfYvu3fQMDQ7V7u_x/preview" width="640" height="480"></iframe>
 
 ## Directions to use
 1. Use the event floating action button to set a reminder.
